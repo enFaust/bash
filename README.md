@@ -1,2 +1,3 @@
 # bash
-My Bash scripts
+
+## Welcome to the Bash Script Repository! 
